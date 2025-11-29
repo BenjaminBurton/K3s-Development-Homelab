@@ -82,24 +82,24 @@ Why this matters:
 
 Infrastructure
 
-Encrypted storage - LUKS on LVM for data security
-Isolated environments - Dev containers prevent host pollution
-Multi-node clusters - 3-node K3s setup (1 server, 2 agents)
-Disposable infrastructure - Clusters can be created/destroyed instantly
+- Encrypted storage - LUKS on LVM for data security
+- Isolated environments - Dev containers prevent host pollution
+- Multi-node clusters - 3-node K3s setup (1 server, 2 agents)
+- Disposable infrastructure - Clusters can be created/destroyed instantly
 
 Development Workflow
 
-Declarative configuration - Infrastructure as Code with YAML manifests
-Package management - Helm charts for application deployment
-Version control - All configs stored in Git
-Reproducible builds - Dev container ensures consistent environment
+- Declarative configuration - Infrastructure as Code with YAML manifests
+- Package management - Helm charts for application deployment
+- Version control - All configs stored in Git
+- Reproducible builds - Dev container ensures consistent environment
 
 Learning Focus
 
-Kubernetes fundamentals - Pods, Deployments, Services, ReplicaSets
-Helm best practices - Chart creation, values customization, releases
-GitOps methodology - Declarative, version-controlled infrastructure
-Container orchestration - Scaling, networking, storage
+- Kubernetes fundamentals - Pods, Deployments, Services, ReplicaSets
+- Helm best practices - Chart creation, values customization, releases
+- GitOps methodology - Declarative, version-controlled infrastructure
+- Container orchestration - Scaling, networking, storage
 
 ### Prerequisites
 
@@ -313,10 +313,6 @@ Technologies:
 - Docker/containerd
 - VSCode Dev Containers
 - Hyprland
-
-### 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### 📬 Contact
 
