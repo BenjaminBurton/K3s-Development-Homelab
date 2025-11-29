@@ -243,31 +243,31 @@ Through this project, I've gained hands-on experience with:
 
 ### Next Phase: GitOps
 
-[] ArgoCD installation and configuration
+[ ] ArgoCD installation and configuration
 
-[] Automated deployments from Git
+[ ] Automated deployments from Git
 
-[] Multi-environment setup (dev/staging/prod)
+[ ] Multi-environment setup (dev/staging/prod)
 
-[] Secrets management with Sealed Secrets
+[ ] Secrets management with Sealed Secrets
 
-[] Prometheus + Grafana monitoring
+[ ] Prometheus + Grafana monitoring
 
 ### Future Enhancements
 
-[] CI/CD pipeline with GitHub Actions
+[ ] CI/CD pipeline with GitHub Actions
 
-[] Custom application development
+[ ] Custom application development
 
-[] Service mesh (Istio/Linkerd)
+[ ] Service mesh (Istio/Linkerd)
 
-[] Persistent storage with Longhorn
+[ ] Persistent storage with Longhorn
 
-[] Ingress controllers (Traefik/NGINX)
+[ ] Ingress controllers (Traefik/NGINX)
 
-[] Certificate management (cert-manager)
+[ ] Certificate management (cert-manager)
 
-[] Backup and disaster recovery
+[ ] Backup and disaster recovery
 
 ### Contributing
 
