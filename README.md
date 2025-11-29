@@ -322,8 +322,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Lavell Burton
 
-[LinkedIn](linkedin.com/in/benjaminlburton)
-[GitHub](https://github.com/BenjaminBurton)
-[Email](benjaminlburton@outlook.com)
+- [LinkedIn](linkedin.com/in/benjaminlburton)
+- [GitHub](https://github.com/BenjaminBurton)
+- [Email](benjaminlburton@outlook.com)
 
 ### Project Status: Active Development 🚧
