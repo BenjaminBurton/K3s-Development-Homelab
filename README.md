@@ -324,6 +324,6 @@ Lavell Burton
 
 - [LinkedIn](linkedin.com/in/benjaminlburton)
 - [GitHub](https://github.com/BenjaminBurton)
-- [Email](benjaminlburton@outlook.com)
+- [Email](mailto:benjaminlburton@outlook.com)
 
 ### Project Status: Active Development 🚧
