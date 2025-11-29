@@ -231,15 +231,15 @@ Through this project, I've gained hands-on experience with:
 
 ### Current Phase: Foundation
 
-[✅] Encrypted Arch Linux LUKS on LVM installation
+✅ Encrypted Arch Linux LUKS on LVM installation
 
-[✅] Hyprland desktop environment
+✅ Hyprland desktop environment
 
-[✅] Dev containers setup
+✅ Dev containers setup
 
-[✅] K3s cluster deployment
+✅ K3s cluster deployment
 
-[✅] Helm chart creation
+✅ Helm chart creation
 
 ### Next Phase: GitOps
 
