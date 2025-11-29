@@ -128,7 +128,7 @@ Knowledge Prerequisites
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/k3s-homelab.git
+git clone https://github.com/BenjaminBurton/k3s-homelab.git
 cd k3s-homelab
 ```
 
