@@ -231,29 +231,29 @@ Through this project, I've gained hands-on experience with:
 
 ### Current Phase: Foundation
 
-[X] Encrypted Arch Linux LUKS on LVM installation
-[X] Hyprland desktop environment
-[X] Dev containers setup
-[X] K3s cluster deployment
-[X] Helm chart creation
+- [X] Encrypted Arch Linux LUKS on LVM installation
+- [X] Hyprland desktop environment
+- [X] Dev containers setup
+- [X] K3s cluster deployment
+- [X] Helm chart creation
 
 ### Next Phase: GitOps
 
-[] ArgoCD installation and configuration
-[] Automated deployments from Git
-[] Multi-environment setup (dev/staging/prod)
-[] Secrets management with Sealed Secrets
-[] Prometheus + Grafana monitoring
+- [] ArgoCD installation and configuration
+- [] Automated deployments from Git
+- [] Multi-environment setup (dev/staging/prod)
+- [] Secrets management with Sealed Secrets
+- [] Prometheus + Grafana monitoring
 
 ### Future Enhancements
 
-[] CI/CD pipeline with GitHub Actions
-[] Custom application development
-[] Service mesh (Istio/Linkerd)
-[] Persistent storage with Longhorn
-[] Ingress controllers (Traefik/NGINX)
-[] Certificate management (cert-manager)
-[] Backup and disaster recovery
+- [] CI/CD pipeline with GitHub Actions
+- [] Custom application development
+- [] Service mesh (Istio/Linkerd)
+- [] Persistent storage with Longhorn
+- [] Ingress controllers (Traefik/NGINX)
+- [] Certificate management (cert-manager)
+- [] Backup and disaster recovery
 
 ### Contributing
 
